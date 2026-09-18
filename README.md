@@ -1,4 +1,3 @@
-# universe_huokaingthara_about
 # 🌌 UNIVERSE HUOKAING THARA - About Us Repository
 
 > Official corporate profile and background documentation for UNIVERSE HUOKAING THARA Group, highlighting our mission, vision, and core pillars.
@@ -28,3 +27,32 @@
 ├── style.css        # Comprehensive styling, variables, and responsive design
 ├── script.js        # Interactive script for language and theme switching
 └── README.md        # Repository documentation
+
+## 🚀 Getting Started / ការចាប់ផ្តើម
+
+To run or review this repository locally:
+
+1. **Clone the repository:**
+git clone [https://github.com/your-username/universe-huokaing-thara-about.git](https://github.com/your-username/universe-huokaing-thara-about.git)
+
+
+2. **Navigate to the project directory:**
+cd universe-huokaing-thara-about
+
+3. **Open `index.html**` in any modern web browser or use a live development server.
+
+## 🛡️ Community Guidelines / គោលការណ៍ណែនាំសហគមន៍
+
+We expect all contributors and visitors to adhere to our community standard:
+
+* **Respect Local Laws:** Strictly comply with the regulations of the Kingdom of Cambodia.
+* **Appropriate Interaction:** No profanity, harassment, or offensive language.
+* **Non-Political Platform:** Dedicated exclusively to art, entertainment, and technology. Political discussions are not permitted.
+
+## 📄 License / ការរក្សាសិទ្ធិ
+
+© 2026 UNIVERSE HUOKAING THARA Group. All Rights Reserved. / រក្សាសិទ្ធិគ្រប់យ៉ាង។
+
+```
+
+```
